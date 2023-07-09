@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1683501030 source:c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\main.cpp
+	<iostream>
+	"Estoque.h"
+	"Venda.h"
+	"Menus.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1683208106 source:c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\src\produto.cpp
+	"Produto.h"
+
+1683208106 c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\include\produto.h
+	<iostream>
+	<list>
+	<string>
+
+1683474301 source:c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\src\estoque.cpp
+	"Estoque.h"
+
+1683579987 c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\include\estoque.h
+	"Produto.h"
+
+1683485676 source:c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\src\venda.cpp
+	"Venda.h"
+
+1683483861 c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\include\venda.h
+	"Estoque.h"
+
+1683324117 c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\include\menus.h
+	<iostream>
+
+1683487735 source:c:\users\marllon\documents\2022.2 lp1\lista 3\projeto lp1\src\menus.cpp
+	"Menus.h"
+
